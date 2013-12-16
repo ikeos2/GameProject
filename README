@@ -1,3 +1,7 @@
 This is a simple RPG like game system.
 It is a turn based battle program, with running attributes.
 More coming soon!
+
+
+Error codes
+01 - the program expected an item to be of a certain type_t but the item given was not.
